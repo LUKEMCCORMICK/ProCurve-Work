@@ -1,4 +1,3 @@
-#Runs for first switch but not others
 #Still some cleanup and plenty of room for improvement
 #Author: Luke McCormick
 #Date Modified: 06/07/2018
